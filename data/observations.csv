@@ -1,0 +1,4 @@
+country,year,measure,value,unit,source,source_date
+United States,2025,production,116,million pounds,https://www.nass.usda.gov/Publications/Todays_Reports/reports/hony0326.pdf,2026-03-13
+United States,2025,yield,48.0,pounds per producing colony,https://www.nass.usda.gov/Publications/Todays_Reports/reports/hony0326.pdf,2026-03-13
+United States,2025,production_change,-14,percent change from prior year,https://www.nass.usda.gov/Publications/Todays_Reports/reports/hony0326.pdf,2026-03-13
